@@ -30,7 +30,8 @@ setup(
         'igraph',
         'leidenalg',
         'torch==1.12.1',
-        'torch_geometric==2.1.0.post1',
-        'torch-sparse'
+        'torch_geometric==2.3.1',
+        # 'torch_geometric==2.1.0.post1',
+        # 'torch_sparse'
     ],
 )
