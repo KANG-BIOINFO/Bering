@@ -1,3 +1,8 @@
+sphinx
+sphinx_rtd_theme
+sphinx_autodoc_typehints
+readthedocs-sphinx-search
+sphinx-autoapi
 numpy
 pandas
 scanpy>=1.6.0
@@ -9,5 +14,3 @@ igraph
 leidenalg
 torch==1.12.1
 torch_geometric==2.3.1
-sphinx_autodoc_typehints
-sphinx-rtd-theme
