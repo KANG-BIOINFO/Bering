@@ -51,26 +51,6 @@ extensions = [
     "typed_returns",
     "IPython.sphinxext.ipython_console_highlighting",
 ]
-intersphinx_mapping = dict(  # noqa: C408
-    python=("https://docs.python.org/3", None),
-    numpy=("https://numpy.org/doc/stable/", None),
-    statsmodels=("https://www.statsmodels.org/stable/", None),
-    scipy=("https://docs.scipy.org/doc/scipy/", None),
-    pandas=("https://pandas.pydata.org/pandas-docs/stable/", None),
-    anndata=("https://anndata.readthedocs.io/en/stable/", None),
-    scanpy=("https://scanpy.readthedocs.io/en/stable/", None),
-    matplotlib=("https://matplotlib.org/stable/", None),
-    seaborn=("https://seaborn.pydata.org/", None),
-    joblib=("https://joblib.readthedocs.io/en/latest/", None),
-    networkx=("https://networkx.org/documentation/stable/", None),
-    dask=("https://docs.dask.org/en/latest/", None),
-    skimage=("https://scikit-image.org/docs/stable/", None),
-    sklearn=("https://scikit-learn.org/stable/", None),
-    numba=("https://numba.readthedocs.io/en/stable/", None),
-    xarray=("https://xarray.pydata.org/en/stable/", None),
-    omnipath=("https://omnipath.readthedocs.io/en/latest", None),
-    napari=("https://napari.org/", None),
-)
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
