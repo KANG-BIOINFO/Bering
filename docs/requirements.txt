@@ -3,10 +3,10 @@ sphinx_rtd_theme
 sphinx_autodoc_typehints
 readthedocs-sphinx-search
 sphinx-autoapi
-sphinxcontrib-bibtex
-sphinx-copybutton
-myst-nb
-nbsphinx
+sphinxcontrib-bibtex==2.5.0
+sphinx-copybutton==0.5.2
+myst-nb==0.17.2
+nbsphinx==0.9.2
 numpy
 pandas
 scanpy>=1.6.0
