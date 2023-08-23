@@ -5,14 +5,7 @@ readthedocs-sphinx-search
 sphinx-autoapi
 nbsphinx==0.9.2
 sphinx-copybutton
-sphinxcontrib-applehelp
-sphinxcontrib-bibtex
-sphinxcontrib-devhelp
-sphinxcontrib-htmlhelp
-sphinxcontrib-jquery
-sphinxcontrib-jsmath
-sphinxcontrib-qthelp
-sphinxcontrib-serializinghtml
+sphinxcontrib
 numpy
 pandas
 scanpy>=1.6.0
